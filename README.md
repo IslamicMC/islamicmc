@@ -29,4 +29,4 @@ To foster a Minecraft server where Muslims can connect, learn, build, and grow i
 
 ---
 
-**Join our discord!** <a href="https://islamicmc.github.io/discord/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abbb" height="30" width="40" /></a>
+**Join our discord!** <a href="https://islamicmc.github.io/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abbb" height="30" width="40" /></a>
